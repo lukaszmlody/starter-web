@@ -16,6 +16,10 @@ Inny przyklad
 
 ##Purpose
 
+I jeszcze jedna linia kurwa mac
+
 ##Deployment
+
+no i jeszcze raz
 
 ##How To Contribute
