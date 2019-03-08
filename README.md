@@ -24,4 +24,4 @@ no i jeszcze raz
 
 ##How To Contribute
 
-Co to jest za druzyna co sledziem jebie tak, jebaka Arka Gdynia KURWA SWINIA
+Co to jest za druzyna co sledziem jebie tak, jebaka Arka Gdynia KURWA SWINIA. jebac Lecha
