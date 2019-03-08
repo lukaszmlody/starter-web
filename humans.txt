@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+ Arka swinia lkurwa jebana
     <name> -- <role> -- <twitter>
 
 # THANKS
