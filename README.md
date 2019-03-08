@@ -23,3 +23,5 @@ I jeszcze jedna linia kurwa mac
 no i jeszcze raz
 
 ##How To Contribute
+
+Co to jest za druzyna co sledziem jebie tak, jebaka Arka Gdynia KURWA SWINIA
